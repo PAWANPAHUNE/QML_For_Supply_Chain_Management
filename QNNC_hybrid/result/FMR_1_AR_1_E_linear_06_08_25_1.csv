@@ -1,0 +1,2 @@
+entanglement,feature_map_reps,ansatz_reps,element test,actual test,predicted test,element train,actual train,predicted train,info
+linear,1,1,N/A,[0 1 0 ... 0 1 1],[1 0 0 ... 1 1 1],N/A,[0 0 0 ... 0 1 0],[1 1 1 ... 1 0 0],"['DATASET: Training_Top3Features.csv, Testing_Top3Features.csv, LEARNING_RATE = 0.01, BATCH_SIZE = 30, NUM_EPOCHS = 100, LOSS: CrossEntropyLoss()']"
